@@ -6,6 +6,8 @@ Proyecto de aprendizaje que conecta una aplicación web moderna con la lógica d
 Vue 3 + TypeScript  →  API REST (Node + Express)  →  Mapepire  →  Procedimiento SQL  →  Programa RPG  →  DB2 for i
 ```
 
+![PUB400: Pantalla verde tn4250](ibmi/pub400.png)
+
 Cada pedido que se hace desde la web llama a un programa **RPG** que actualiza el stock en **DB2 for i**.
 
 ## Estructura
